@@ -1,5 +1,5 @@
 # Shusseki
-Android application built for instructors to ease the process of attendance taking.
+Android application built for instructors and students to ease the process of attendance taking and management.
 
 # Features:
 - Clean UI design
