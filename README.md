@@ -3,7 +3,7 @@
 </p>
 
 ![Languages](https://img.shields.io/badge/-Java%2303a9f4?style=for-the-badge&logo=java)
-![tech1](https://img.shields.io/badge/-Android Studio%2303a9f4?style=for-the-badge&logo=androidstudio)
+![tech1](https://img.shields.io/badge/-Android%20Studio%2303a9f4?style=for-the-badge&logo=androidstudio)
 ![tech2](https://img.shields.io/badge/-Firebase%2303a9f4?style=for-the-badge&logo=firebase)
 
 Android application built for instructors and students to ease the process of attendance taking and management.
