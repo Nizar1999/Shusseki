@@ -7,6 +7,7 @@
 ![tech2](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=firebase&logoColor=%2303a9f4)
 
 A proposed solution for classrooms looking to facilitate the attendance management and taking process for both instructors and students.
+This is done via the use of QR Codes generated from information including the course ID, class section, and current date.
 
 # Features
 
