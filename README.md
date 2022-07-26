@@ -16,14 +16,14 @@ A proposed solution for classrooms looking to facilitate the attendance manageme
 ## Menus for Students and Instructors
 ### Students
 ![studentProfile](./screenshots/StudentProfile.png)
-### Instructor
+### Instructors
 ![instructorProfile](./screenshots/TeacherLogin.png)
 
 ## Syncing and Storage using Firebase DB
 ![firebase](./screenshots/Firebase.png)
 
 ## Easy Course Management
-![management](./screenshots/CourseManageent.png)
+![management](./screenshots/CourseManagement.png)
 
 ## Attendee List Importing As Excel Sheets
 ![import](./screenshots/Import.png)
