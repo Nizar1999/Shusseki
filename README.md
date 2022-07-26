@@ -6,7 +6,7 @@
 ![tech1](https://img.shields.io/badge/-Android%20Studio-grey?style=for-the-badge&logo=androidstudio&logoColor=%2303a9f4)
 ![tech2](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=firebase&logoColor=%2303a9f4)
 
-Android application built for instructors and students to ease the process of attendance taking and management.
+A proposed solution for classrooms looking to facilitate the attendance management and taking process for both instructors and students.
 
 # Features:
 - Clean UI design
