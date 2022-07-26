@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nizar1999/Shusseki/blob/master/screenshots/Banner.png" width = 55%; height=55% />
+  <img src="https://github.com/Nizar1999/Shusseki/blob/master/screenshots/Banner.jpg" width = 55%; height=55% />
 </p>
 
 Android application built for instructors and students to ease the process of attendance taking and management.
