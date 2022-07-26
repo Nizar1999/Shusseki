@@ -2,9 +2,9 @@
   <img src="https://github.com/Nizar1999/Shusseki/blob/master/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
-![Languages](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=android)
-![tech1](https://img.shields.io/badge/-Android%20Studio-%2303a9f4?style=for-the-badge&logo=androidstudio)
-![tech2](https://img.shields.io/badge/-Firebase-%2303a9f4?style=for-the-badge&logo=firebase)
+![Languages](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=android&logoColor=blue)
+![tech1](https://img.shields.io/badge/-Android%20Studio-grey?style=for-the-badge&logo=androidstudio&logoColor=blue)
+![tech2](https://img.shields.io/badge/-Firebase-grey?style=for-the-badge&logo=firebase&logoColor=blue)
 
 Android application built for instructors and students to ease the process of attendance taking and management.
 
