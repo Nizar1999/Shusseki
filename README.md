@@ -13,7 +13,7 @@ A proposed solution for classrooms looking to facilitate the attendance manageme
 ## Accounts Login
 ![login](./screenshots/Login.png)
 
-## Profiles for Students and Instructors
+## Menus for Students and Instructors
 ### Students
 ![studentProfile](./screenshots/StudentProfile.png)
 ### Instructor
