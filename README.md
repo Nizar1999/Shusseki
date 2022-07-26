@@ -2,7 +2,7 @@
   <img src="https://github.com/Nizar1999/Shusseki/blob/master/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
-![Languages](https://img.shields.io/badge/-Java Native%2303a9f4?style=for-the-badge&logo=android)
+![Languages](https://img.shields.io/badge/-Java%2303a9f4?style=for-the-badge&logo=android)
 ![tech1](https://img.shields.io/badge/-Android%20Studio%2303a9f4?style=for-the-badge&logo=androidstudio)
 ![tech2](https://img.shields.io/badge/-Firebase%2303a9f4?style=for-the-badge&logo=firebase)
 
